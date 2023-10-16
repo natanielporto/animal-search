@@ -1,0 +1,54 @@
+.headerContainer {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+  border-bottom: 1px solid lightgray;
+}
+
+.logo {
+  width: 100px;
+}
+
+.inputAndIconsWrapper {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.inputWrapper {
+  position: relative;
+}
+
+.input {
+  width: 300px;
+  border: 1px solid lightgray;
+  padding: 8px;
+  border-radius: 20px;
+  padding-left: 2rem;
+}
+
+.iconAndAvatar {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.avatar {
+  height: 24px;
+  width: 24px;
+  border-radius: 50%;
+}
+
+.search {
+  position: absolute;
+  top: 8px;
+  left: 8px;
+}
+
+.close {
+  background: transparent;
+  border: none;
+  position: absolute;
+  top: 8px;
+  right: 8px;
+}

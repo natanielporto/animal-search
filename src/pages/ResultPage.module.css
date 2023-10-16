@@ -1,0 +1,21 @@
+.responseWrapper {
+  margin-top: 1rem;
+}
+
+.finalResponseFail {
+  margin-left: 120px;
+}
+
+.infoWrapper {
+  display: flex;
+  margin: 0 1rem;
+}
+
+.leftInfo {
+  width: 80%;
+}
+
+.rightInfo {
+  width: 20%;
+  margin-right: 10%;
+}

@@ -1,0 +1,20 @@
+.animalCard {
+  border: 1px solid gray;
+  padding: 8px;
+  width: 393px;
+}
+
+.image {
+  width: 100%;
+}
+
+.url {
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+
+.title {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 8px;
+}

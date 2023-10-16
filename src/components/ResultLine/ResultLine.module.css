@@ -1,0 +1,15 @@
+.resultLineWrapper {
+  margin-top: 2rem;
+}
+
+.url {
+  font-size: 14px;
+}
+
+.title {
+  font-size: 20px;
+  color: blue;
+  margin-top: 8px;
+  margin-bottom: 8px;
+  cursor: pointer;
+}
